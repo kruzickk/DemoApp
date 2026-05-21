@@ -17,7 +17,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <script src="https://apps.abacus.ai/chatllm/appllm-lib.js"></script>
       </head>
       <body className={inter.className}>
         {children}
